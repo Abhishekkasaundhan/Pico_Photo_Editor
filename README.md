@@ -7,7 +7,7 @@
  ![image](https://user-images.githubusercontent.com/84410340/160286344-9918e885-9a0e-4ccb-8c49-3147f1470899.png)
 
 
-user can use differnt types of filters in the picture
+user can use different types of filters in the picture
 
 ![image](https://user-images.githubusercontent.com/84410340/160286613-2c1b9e51-d8f4-4c55-b978-e705ff5af2a0.png)
 
