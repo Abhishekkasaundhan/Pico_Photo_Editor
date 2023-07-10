@@ -1,5 +1,5 @@
 # Pico-photo editor
- This application is for editing & framing the photos of the users & with other features as well.
+ This application is basically for Editing, Framing & Modifying the User's photos & it also provides some other unique features as well for the users. 
  
  
  Splash screen
